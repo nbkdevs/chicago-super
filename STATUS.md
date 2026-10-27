@@ -46,7 +46,7 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 | Platform | Item | Source | Status |
 |---|---|---|---|
 | Smithery | chicago-group-travel skill | publish/chicago-charter-bus-rental/smithery-ai/chicago-group-travel | Prepared and tested (7 tests). Needs a SMITHERY_API_KEY (or Smithery web sign-in). Command in smithery-ai/README.md. Expected page: https://smithery.ai/skills/nbkdevs/chicago-group-travel |
-| Context 7 | nbkdevs/chicago-super library | context7.json + publish/chicago-charter-bus-rental/CONTEXT7.md | Prepared. Needs a Context7 sign-in to add the repo. |
+| Context 7 | nbkdevs/chicago-super library | https://context7.com/nbkdevs/chicago-super | Pending Review. Submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the library page exists (title "Chicago Charter Bus Rental fleet planner") but is still processing, with no outbound link rendered yet, so the link type stays at the sheet's Dofollow value, unverified. Config: context7.json. |
 | GitLab | nbkdevs/chicago-super mirror | n/a | Needs a GitLab sign-in. |
 | Product Hunt, Automatool | n/a | n/a | Need web sign-ins or submissions; not attempted. |
 | The Popular Apps | Travel Pal Play app (https://play.google.com/store/apps/details?id=com.travelpal.travel_pal) | thepopularapps.com | Pending Review. Submitted 27 Oct 2026 (Asia/Karachi), free tier, account nbkchicago2026 (nbkdevs@gmail.com); estimated 5-15 days; no public listing URL yet; dashboard https://www.thepopularapps.com/submissions. After approval, edit the listing to put https://chicagosupercoachbus.com/ in the Windows URL field. |
