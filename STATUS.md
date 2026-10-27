@@ -39,6 +39,7 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 | GitHub | Source Code | Nofollow | https://github.com/nbkdevs/chicago-super | Public repo; description and homepage set via API 27 Oct 2026 (Asia/Karachi); root README exact anchor rendered with rel="nofollow"; website link in the sidebar also rel="nofollow" |
 | NuGet | Package | Nofollow (rel="noopener noreferrer nofollow") | https://www.nuget.org/packages/ChicagoCharterBusRental/1.0.0 | `ChicagoCharterBusRental` 1.0.0, pushed 27 Oct 2026 (Asia/Karachi), indexed in the flat container within about 14 minutes; projectUrl is the site; README anchor rendered on the package page; page is meta robots noindex for now; planner library with 7 tests |
 | RubyGems | Package | Nofollow (rel="nofollow" on the gem page Homepage link) | https://rubygems.org/gems/chicago_charter_bus_rental | `chicago_charter_bus_rental` 1.0.0, pushed by Nazzal 27 Oct 2026 (Asia/Karachi); API homepage_uri is https://chicagosupercoachbus.com/; the gem page shows no README, only the Homepage link; planner gem with 8 tests |
+| Packagist | Php Package | Nofollow (rel="nofollow noopener external noindex ugc" on the README anchor and Homepage) | https://packagist.org/packages/chicagosupercoach/charter-bus-rental | `chicagosupercoach/charter-bus-rental`, dev-main, auto-updated from this repo via the root composer.json; submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the page shows the exact anchor and Homepage = the site |
 
 ## Prepared or pending
 
@@ -46,7 +47,6 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 |---|---|---|---|
 | Smithery | chicago-group-travel skill | publish/chicago-charter-bus-rental/smithery-ai/chicago-group-travel | Prepared and tested (7 tests). Needs a SMITHERY_API_KEY (or Smithery web sign-in). Command in smithery-ai/README.md. Expected page: https://smithery.ai/skills/nbkdevs/chicago-group-travel |
 | Context 7 | nbkdevs/chicago-super library | context7.json + publish/chicago-charter-bus-rental/CONTEXT7.md | Prepared. Needs a Context7 sign-in to add the repo. |
-| Packagist | chicagosupercoach/charter-bus-rental | publish/chicago-charter-bus-rental/packagist | Tested (php tests/run.php, 1226 checks). Not submitted: needs a Packagist sign-in; root composer.json added (autoload points at the subfolder), so submit the repo URL https://github.com/nbkdevs/chicago-super. Not published by instruction. |
 | GitLab | nbkdevs/chicago-super mirror | n/a | Needs a GitLab sign-in. |
 | Product Hunt, Automatool | n/a | n/a | Need web sign-ins or submissions; not attempted. |
 | The Popular Apps | Travel Pal Play app (https://play.google.com/store/apps/details?id=com.travelpal.travel_pal) | thepopularapps.com | Pending Review. Submitted 27 Oct 2026 (Asia/Karachi), free tier, account nbkchicago2026 (nbkdevs@gmail.com); estimated 5-15 days; no public listing URL yet; dashboard https://www.thepopularapps.com/submissions. After approval, edit the listing to put https://chicagosupercoachbus.com/ in the Windows URL field. |
