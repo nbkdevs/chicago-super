@@ -22,6 +22,10 @@ flutter run
 - Profile stats
 - JSON export / import backup
 
+## Group trips
+
+Planning a Chicago trip for a large group? See [Chicago Charter Bus Rental](https://chicagosupercoachbus.com/) for charter transportation. Travel Pal itself does not provide transportation; it only records trip notes.
+
 ## Stack
 
 - Flutter + Material 3 (custom Travel Pal theme)

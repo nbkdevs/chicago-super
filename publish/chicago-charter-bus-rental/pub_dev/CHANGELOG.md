@@ -2,5 +2,5 @@
 
 ## 1.0.0
 
-- Initial release of Chicago Charter Bus Rental reference constants for Dart/Flutter.
-- Homepage: https://chicagosupercoachbus.com/
+- Fleet planner for Chicago group charters: `recommendFleet`, `vehiclesNeeded`, `headcountWithBuffer` and the `CharterVehicle` classes with their seat ranges.
+- Metadata constants for the package title and homepage.

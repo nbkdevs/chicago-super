@@ -1,30 +1,30 @@
-# Chicago Charter Bus Rental — publish assets
+# Chicago Charter Bus Rental: publish assets
 
-Minimal packages and metadata for listing **[Chicago Charter Bus Rental](https://chicagosupercoachbus.com/)** on common registries. Each artifact is self-contained under its folder.
+Small, useful packages and agent skills for group charter planning, built around the [Chicago Charter Bus Rental](https://chicagosupercoachbus.com/) fleet. Each folder is self-contained and has its own README and tests where it has code.
 
-**Homepage:** https://chicagosupercoachbus.com/
+The packages share one idea: given a headcount, recommend the fewest vehicles from the published fleet seat sizes (SuperCoach 57, Coach Bus 44, Small Coach Bus 28, Executive Sprinter Van 15, plus Party Bus 45 and Trolley 30) and report spare seats. They are planning aids, not quotes, bookings or availability statements.
 
-These are small reference packages (URLs, copy, and helpers)—not full applications. Publish manually from each directory using the notes below. **No GitHub Actions** are included (especially for Snapcraft).
+| Registry | Directory | Package | Notes |
+|---|---|---|---|
+| npm | `npm/` | `chicago-charter-bus-rental` | Published |
+| PyPI | `pypi/` | `chicago-charter-bus-rental` | Published |
+| crates.io | `crates/` | `chicago-charter-bus-rental` | Published |
+| Docker Hub | `docker/` | `iamnazzal/chicago-charter-bus-rental` | Published |
+| pub.dev | `pub_dev/` | `chicago_charter_bus_rental` | Fleet planner library with tests |
+| RubyGems | `rubygems/` | `chicago_charter_bus_rental` | Fleet planner gem with tests, not published |
+| Packagist | `packagist/` | `chicago-super-coach/chicago-charter-bus-rental` | Fleet planner library with tests, not published |
+| NuGet | `nuget/` | `ChicagoCharterBusRental` | Fleet planner library with xunit tests, not published |
+| Smithery | `smithery-ai/` | `chicago-group-travel` | Agent skill with a planner script and tests, not published |
+| Snapcraft | `snapcraft/` | | Not published |
 
-## Platforms (verified)
+Run the tests per package:
 
-| Platform   | Directory    | Status | Publish hint |
-|-----------|--------------|--------|--------------|
-| Snapcraft | `snapcraft/` | Ready | Local `snapcraft pack` / `snapcraft upload` only |
-| Docker Hub | `docker/`   | Ready | `docker build` then `docker push` |
-| Packagist | `packagist/` | Ready | Register Git repo on packagist.org |
-| PyPI      | `pypi/`      | Ready | `python -m build && twine upload dist/*` |
-| Crates.io | `crates/`    | Ready | `cargo publish` |
-| NuGet     | `nuget/`     | Ready | `dotnet pack` then `dotnet nuget push` |
-| npm       | `npm/`       | Ready | `npm publish` |
-| RubyGems  | `rubygems/`  | Ready | `gem build` then `gem push` |
-| pub.dev   | `pub_dev/`   | Ready | `dart pub publish` |
-| Smithery AI | `smithery-ai/` | Ready | Upload `chicago-group-travel/` skill folder |
+```
+dart test                                   # pub_dev/
+ruby test/chicago_charter_bus_rental_test.rb # rubygems/
+php tests/run.php                           # packagist/
+dotnet test tests                           # nuget/
+python3 -m unittest -q                      # smithery-ai/chicago-group-travel/scripts/
+```
 
-**Upload order (Snapcraft last):** Docker Hub → Packagist → PyPI → Crates.io → NuGet → npm → RubyGems → pub.dev → Smithery → Snapcraft
-
-All packages link to https://chicagosupercoachbus.com/ and use **Chicago Charter Bus Rental** in names/descriptions.
-
-Browser packages live separately under `/browser` (Chrome theme · Firefox · Edge · Safari · Opera).
-
-Replace placeholder author names, emails, and registry IDs before publishing.
+Browser packages live separately under `/browser`. Overall publishing status is in the repository's STATUS.md.

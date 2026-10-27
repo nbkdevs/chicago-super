@@ -1,0 +1,12 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Chicago Charter Bus Rental fleet planner",
+  "description": "Small libraries (Dart, Ruby, PHP, C#, Python, JavaScript, Rust) and an agent skill that recommend the fewest vehicles for a Chicago group charter headcount from published fleet seat sizes.",
+  "folders": ["publish/chicago-charter-bus-rental"],
+  "excludeFolders": ["publish/chicago-charter-bus-rental/snapcraft", "publish/chicago-charter-bus-rental/docker", "android", "assets", "lib", "browser", "Agentic"],
+  "rules": [
+    "Seat counts are the top of the published ranges: SuperCoach 57, Coach Bus 44, Small Coach Bus 28, Executive Sprinter Van 15, Party Bus 45, Trolley 30.",
+    "The planners are estimates, not quotes, bookings or availability statements.",
+    "recommend_fleet returns the fewest vehicles and then the fewest spare seats."
+  ]
+}

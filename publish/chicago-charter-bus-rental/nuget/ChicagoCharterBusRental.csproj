@@ -5,14 +5,18 @@
     <Nullable>enable</Nullable>
     <PackageId>ChicagoCharterBusRental</PackageId>
     <Version>1.0.0</Version>
-    <Authors>Chicago Super Coach</Authors>
-    <Description>Reference library for Chicago Charter Bus Rental and Chicago group travel.</Description>
-    <PackageTags>chicago;charter;bus;group-travel</PackageTags>
+    <Authors>nbkdevs</Authors>
+    <Description>Chicago group charter planner: recommends the fewest vehicles for a headcount from the Chicago Charter Bus Rental fleet seat sizes, with spare-seat counts and a late-additions buffer.</Description>
+    <PackageTags>chicago;charter;bus;group-travel;planner;calculator</PackageTags>
+    <RepositoryUrl>https://github.com/nbkdevs/chicago-super</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://chicagosupercoachbus.com/</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="tests/**" />
+    <Compile Remove="bin/**;obj/**" />
     <None Include="README.md" Pack="true" PackagePath="/" />
   </ItemGroup>
 </Project>

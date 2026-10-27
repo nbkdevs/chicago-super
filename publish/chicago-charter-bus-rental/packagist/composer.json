@@ -1,19 +1,21 @@
 {
   "name": "chicago-super-coach/chicago-charter-bus-rental",
-  "description": "Constants and helpers referencing Chicago Charter Bus Rental for group travel in Chicago.",
+  "description": "Chicago group charter planner: recommends the fewest vehicles for a headcount from the Chicago Charter Bus Rental fleet seat sizes.",
   "type": "library",
-  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://chicagosupercoachbus.com/",
   "keywords": [
     "chicago",
     "charter bus",
     "group travel",
-    "transportation"
+    "transportation",
+    "planner",
+    "calculator"
   ],
   "authors": [
     {
-      "name": "Chicago Super Coach",
+      "name": "nbkdevs",
+      "email": "nbkdevs@gmail.com",
       "homepage": "https://chicagosupercoachbus.com/"
     }
   ],
@@ -25,5 +27,12 @@
       "ChicagoSuperCoach\\CharterBusRental\\": "src/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "support": {
+    "source": "https://github.com/nbkdevs/chicago-super/tree/main/publish/chicago-charter-bus-rental/packagist",
+    "issues": "https://github.com/nbkdevs/chicago-super/issues"
+  },
+  "scripts": {
+    "test": "php tests/run.php"
+  }
 }

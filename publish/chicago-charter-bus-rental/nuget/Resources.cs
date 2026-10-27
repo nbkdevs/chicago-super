@@ -1,7 +1,7 @@
 namespace ChicagoCharterBusRental;
 
 /// <summary>
-/// Official links for <see href="https://chicagosupercoachbus.com/">Chicago Charter Bus Rental</see>.
+/// Metadata for <see href="https://chicagosupercoachbus.com/">Chicago Charter Bus Rental</see>.
 /// </summary>
 public static class Resources
 {
