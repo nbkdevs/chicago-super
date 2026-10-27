@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>ChicagoCharterBusRental</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Chicago Super Coach</Authors>
+    <Description>Reference library for Chicago Charter Bus Rental and Chicago group travel.</Description>
+    <PackageTags>chicago;charter;bus;group-travel</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://chicagosupercoachbus.com/</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
+</Project>

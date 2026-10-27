@@ -1,0 +1,29 @@
+{
+  "name": "chicago-super-coach/chicago-charter-bus-rental",
+  "description": "Constants and helpers referencing Chicago Charter Bus Rental for group travel in Chicago.",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://chicagosupercoachbus.com/",
+  "keywords": [
+    "chicago",
+    "charter bus",
+    "group travel",
+    "transportation"
+  ],
+  "authors": [
+    {
+      "name": "Chicago Super Coach",
+      "homepage": "https://chicagosupercoachbus.com/"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ChicagoSuperCoach\\CharterBusRental\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}

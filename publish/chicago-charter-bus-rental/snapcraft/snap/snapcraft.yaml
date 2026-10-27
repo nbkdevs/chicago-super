@@ -1,0 +1,27 @@
+name: chicago-charter-bus-rental
+title: Chicago Charter Bus Rental
+summary: Group charter bus resources for Chicago trips
+description: |
+  Reference snap for Chicago group travel planning. Official site:
+  Chicago Charter Bus Rental — https://chicagosupercoachbus.com/
+
+  Use when coordinating pickups, event schedules, and group transportation
+  notes for Chicago itineraries.
+version: "1.0.0"
+grade: stable
+confinement: strict
+base: core22
+
+apps:
+  chicago-charter-bus-rental:
+    command: bin/info
+    plugs:
+      - network
+
+parts:
+  info:
+    plugin: nil
+    source: .
+    override-build: |
+      # Build from the `snap/` directory (see README). No GitHub Actions.
+      install -Dm755 "$CRAFT_PROJECT_DIR/info.sh" "$CRAFT_PART_INSTALL/bin/info"

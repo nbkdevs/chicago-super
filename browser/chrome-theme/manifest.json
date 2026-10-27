@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "Travel Pal — Soft Flock",
+  "version": "1.0.0",
+  "description": "A calm sage-mint Chrome theme with soft flock silhouettes — inspired by open skies and quiet travel mornings.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png",
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "colors": {
+      "frame": [168, 196, 176],
+      "frame_inactive": [148, 178, 158],
+      "toolbar": [252, 250, 246],
+      "tab_text": [36, 48, 42],
+      "tab_background_text": [80, 100, 88],
+      "bookmark_text": [36, 48, 42],
+      "ntp_background": [168, 196, 176],
+      "ntp_text": [36, 48, 42],
+      "ntp_link": [214, 98, 78],
+      "ntp_header": [120, 156, 132],
+      "button_background": [252, 250, 246]
+    },
+    "tints": {
+      "buttons": [0.35, 0.25, 0.55],
+      "frame": [-1, -1, -1],
+      "frame_inactive": [-1, 0.3, 0.55],
+      "background_tab": [0.35, 0.2, 0.72]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Travel Pal</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="brand">
+      <img src="icons/icon48.png" width="28" height="28" alt="" />
+      <div>
+        <h1>Travel Pal</h1>
+        <p class="tagline">Your journey, beautifully remembered.</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <label class="label" for="note">Capture a note</label>
+    <textarea id="note" rows="4" maxlength="500" placeholder="A place, a feeling, a detail you don’t want to lose…"></textarea>
+    <div class="row">
+      <input id="place" type="text" maxlength="80" placeholder="Place (optional)" />
+      <button id="save" type="button">Save</button>
+    </div>
+
+    <section class="list-wrap">
+      <div class="list-head">
+        <h2>Recent notes</h2>
+        <button id="clear" type="button" class="linkish" hidden>Clear all</button>
+      </div>
+      <ul id="notes" class="notes"></ul>
+      <p id="empty" class="empty">No notes yet — jot something while you browse.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Local-only · companion to the Travel Pal app</span>
+  </footer>
+  <script src="popup.js"></script>
+</body>
+</html>

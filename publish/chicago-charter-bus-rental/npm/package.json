@@ -1,0 +1,23 @@
+{
+  "name": "chicago-charter-bus-rental",
+  "version": "1.0.0",
+  "description": "Reference constants for Chicago Charter Bus Rental and Chicago group travel.",
+  "homepage": "https://chicagosupercoachbus.com/",
+  "bugs": {
+    "url": "https://chicagosupercoachbus.com/"
+  },
+  "keywords": [
+    "chicago",
+    "charter-bus",
+    "group-travel",
+    "transportation"
+  ],
+  "license": "MIT",
+  "author": "Chicago Super Coach",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}

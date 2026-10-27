@@ -1,0 +1,19 @@
+name: chicago_charter_bus_rental
+description: Reference constants for Chicago Charter Bus Rental and Chicago group travel planning.
+version: 1.0.0
+homepage: https://chicagosupercoachbus.com/
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  meta: ^1.16.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
+
+topics:
+  - chicago
+  - travel
+  - transportation

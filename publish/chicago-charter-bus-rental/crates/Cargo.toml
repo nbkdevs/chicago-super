@@ -1,0 +1,10 @@
+[package]
+name = "chicago-charter-bus-rental"
+version = "1.0.0"
+edition = "2021"
+description = "Constants linking to Chicago Charter Bus Rental for group travel in Chicago."
+license = "MIT"
+readme = "README.md"
+keywords = ["chicago", "charter", "bus", "travel"]
+homepage = "https://chicagosupercoachbus.com/"
+repository = "https://chicagosupercoachbus.com/"
