@@ -7,7 +7,7 @@
 | Source | GitHub repo nbkdevs/chicago-super, folder publish/chicago-charter-bus-rental/smithery-ai/chicago-group-travel |
 | Homepage | https://chicagosupercoachbus.com/ |
 | Anchor used | [Chicago Charter Bus Rental](https://chicagosupercoachbus.com/) (SKILL.md, once; README intro, once) |
-| Status | Prepared, not published: needs a Smithery API key or web sign-in |
+| Status | Live: https://smithery.ai/skills/nbkdevs/chicago-group-travel (published 27 Oct 2026, Asia/Karachi) |
 
 **Display name:** Chicago Group Travel
 

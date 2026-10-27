@@ -40,12 +40,12 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 | NuGet | Package | Nofollow (rel="noopener noreferrer nofollow") | https://www.nuget.org/packages/ChicagoCharterBusRental/1.0.0 | `ChicagoCharterBusRental` 1.0.0, pushed 27 Oct 2026 (Asia/Karachi), indexed in the flat container within about 14 minutes; projectUrl is the site; README anchor rendered on the package page; page is meta robots noindex for now; planner library with 7 tests |
 | RubyGems | Package | Nofollow (rel="nofollow" on the gem page Homepage link) | https://rubygems.org/gems/chicago_charter_bus_rental | `chicago_charter_bus_rental` 1.0.0, pushed by Nazzal 27 Oct 2026 (Asia/Karachi); API homepage_uri is https://chicagosupercoachbus.com/; the gem page shows no README, only the Homepage link; planner gem with 8 tests |
 | Packagist | Php Package | Nofollow (rel="nofollow noopener external noindex ugc" on the README anchor and Homepage) | https://packagist.org/packages/chicagosupercoach/charter-bus-rental | `chicagosupercoach/charter-bus-rental`, dev-main, auto-updated from this repo via the root composer.json; submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the page shows the exact anchor and Homepage = the site |
+| Smithery | Agent Skill | Dofollow (plain <a href>, no rel) | https://smithery.ai/skills/nbkdevs/chicago-group-travel | `nbkdevs/chicago-group-travel`, published 27 Oct 2026 (Asia/Karachi) with the Smithery CLI; page rendered with one exact anchor "Chicago Charter Bus Rental" to the site; skill includes the fleet planner script |
 
 ## Prepared or pending
 
 | Platform | Item | Source | Status |
 |---|---|---|---|
-| Smithery | chicago-group-travel skill | publish/chicago-charter-bus-rental/smithery-ai/chicago-group-travel | Prepared and tested (7 tests). Needs a SMITHERY_API_KEY (or Smithery web sign-in). Command in smithery-ai/README.md. Expected page: https://smithery.ai/skills/nbkdevs/chicago-group-travel |
 | Context 7 | nbkdevs/chicago-super library | https://context7.com/nbkdevs/chicago-super | Pending Review. Submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the library page exists (title "Chicago Charter Bus Rental fleet planner") but is still processing, with no outbound link rendered yet, so the link type stays at the sheet's Dofollow value, unverified. Config: context7.json. |
 | GitLab | nbkdevs/chicago-super mirror | n/a | Needs a GitLab sign-in. |
 | Product Hunt, Automatool | n/a | n/a | Need web sign-ins or submissions; not attempted. |
