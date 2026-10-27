@@ -63,6 +63,7 @@ A small fleet planner that recommends the fewest vehicles for a group, using pub
 
 - [GitLab mirror: nbkdevs/chicago-super](https://gitlab.com/nbkdevs/chicago-super): a copy of this repository on GitLab.
 - [Indie Hackers: Chicago Super Coach](https://www.indiehackers.com/product/chicago-super-coach): the product page and updates.
+- [The Great Apps: Travel Pal](https://www.thegreatapps.com/apps/travel-pal): the Android app's listing in the app directory.
 - [Product Hunt: Chicago Super Coach](https://www.producthunt.com/products/chicago-super-coach): the product page (launching 28 October 2026).
 - [Design Nominees](https://www.designnominees.com/sites/chicago-charter-bus-rental-chicago-super-coach): the site's design listing.
 
