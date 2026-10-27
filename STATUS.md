@@ -47,7 +47,9 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 | Platform | Item | Source | Status |
 |---|---|---|---|
 | Context 7 | nbkdevs/chicago-super library | https://context7.com/nbkdevs/chicago-super | Pending Review. Submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the library page exists (title "Chicago Charter Bus Rental fleet planner") but is still processing, with no outbound link rendered yet, so the link type stays at the sheet's Dofollow value, unverified. Config: context7.json. |
-| GitLab | nbkdevs/chicago-super mirror | n/a | Needs a GitLab sign-in. |
-| Product Hunt, Automatool | n/a | n/a | Need web sign-ins or submissions; not attempted. |
+| GitLab | nbkdevs/chicago-super mirror | n/a | Plan ready in publish/chicago-charter-bus-rental/directory-kits/GITLAB.md; needs a GitLab sign-in or GITLAB_TOKEN (not set). Not created. |
+| Product Hunt | Chicago Super Coach | n/a | Copy and media ready in publish/chicago-charter-bus-rental/directory-kits/LISTING.md; not submitted (needs the user's sign-in). Website field = https://chicagosupercoachbus.com/. |
+| Indie Hackers | Chicago Super Coach | n/a | Copy ready in the same LISTING.md; not submitted (account `nbkshing` used for GoPromotional). Sheet row 40 added (61/81, Nofollow), status blank. |
+| Automatool | n/a | n/a | Needs a web submission; not attempted. |
 | The Popular Apps | Travel Pal Play app (https://play.google.com/store/apps/details?id=com.travelpal.travel_pal) | thepopularapps.com | Pending Review. Submitted 27 Oct 2026 (Asia/Karachi), free tier, account nbkchicago2026 (nbkdevs@gmail.com); estimated 5-15 days; no public listing URL yet; dashboard https://www.thepopularapps.com/submissions. After approval, edit the listing to put https://chicagosupercoachbus.com/ in the Windows URL field. |
 | The Great Apps | Travel Pal Play app (https://play.google.com/store/apps/details?id=com.travelpal.travel_pal) | thegreatapps.com | Pending Review. Submitted 27 Oct 2026 (Asia/Karachi), free tier, account nbkchicago2026 (nbkdevs@gmail.com); estimated 15-20 days; no public listing URL yet; dashboard https://www.thegreatapps.com/submissions. After approval, edit the listing to put https://chicagosupercoachbus.com/ in the Windows URL field. |
