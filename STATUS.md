@@ -41,13 +41,13 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 | RubyGems | Package | Nofollow (rel="nofollow" on the gem page Homepage link) | https://rubygems.org/gems/chicago_charter_bus_rental | `chicago_charter_bus_rental` 1.0.0, pushed by Nazzal 27 Oct 2026 (Asia/Karachi); API homepage_uri is https://chicagosupercoachbus.com/; the gem page shows no README, only the Homepage link; planner gem with 8 tests |
 | Packagist | Php Package | Nofollow (rel="nofollow noopener external noindex ugc" on the README anchor and Homepage) | https://packagist.org/packages/chicagosupercoach/charter-bus-rental | `chicagosupercoach/charter-bus-rental`, dev-main, auto-updated from this repo via the root composer.json; submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the page shows the exact anchor and Homepage = the site |
 | Smithery | Agent Skill | Dofollow (plain <a href>, no rel) | https://smithery.ai/skills/nbkdevs/chicago-group-travel | `nbkdevs/chicago-group-travel`, published 27 Oct 2026 (Asia/Karachi) with the Smithery CLI; page rendered with one exact anchor "Chicago Charter Bus Rental" to the site; skill includes the fleet planner script |
+| GitLab | Source Code | Nofollow (rel="nofollow noreferrer noopener" on the README anchor, as reported by the user) | https://gitlab.com/nbkdevs/chicago-super | Public mirror imported from GitHub by the user, 27 Oct 2026 (Asia/Karachi); page returns HTTP 200. Project description not set (API needs a token); can be added in project settings. |
 
 ## Prepared or pending
 
 | Platform | Item | Source | Status |
 |---|---|---|---|
 | Context 7 | nbkdevs/chicago-super library | https://context7.com/nbkdevs/chicago-super | Pending Review. Submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the library page exists (title "Chicago Charter Bus Rental fleet planner") but is still processing, with no outbound link rendered yet, so the link type stays at the sheet's Dofollow value, unverified. Config: context7.json. |
-| GitLab | nbkdevs/chicago-super mirror | n/a | Plan ready in publish/chicago-charter-bus-rental/directory-kits/GITLAB.md; needs a GitLab sign-in or GITLAB_TOKEN (not set). Not created. |
 | Product Hunt | Chicago Super Coach | n/a | Copy and media ready in publish/chicago-charter-bus-rental/directory-kits/LISTING.md; not submitted (needs the user's sign-in). Website field = https://chicagosupercoachbus.com/. |
 | Indie Hackers | Chicago Super Coach | n/a | Copy ready in the same LISTING.md; not submitted (account `nbkshing` used for GoPromotional). Sheet row 40 added (61/81, Nofollow), status blank. |
 | Automatool | n/a | n/a | Needs a web submission; not attempted. |
