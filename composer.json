@@ -1,0 +1,38 @@
+{
+  "name": "nbkdevs/chicago-charter-bus-rental",
+  "description": "Chicago group charter planner: recommends the fewest vehicles for a headcount from the Chicago Charter Bus Rental fleet seat sizes.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://chicagosupercoachbus.com/",
+  "keywords": [
+    "chicago",
+    "charter bus",
+    "group travel",
+    "transportation",
+    "planner",
+    "calculator"
+  ],
+  "authors": [
+    {
+      "name": "nbkdevs",
+      "email": "nbkdevs@gmail.com",
+      "homepage": "https://chicagosupercoachbus.com/"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ChicagoSuperCoach\\CharterBusRental\\": "publish/chicago-charter-bus-rental/packagist/src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "support": {
+    "source": "https://github.com/nbkdevs/chicago-super/tree/main/publish/chicago-charter-bus-rental/packagist",
+    "issues": "https://github.com/nbkdevs/chicago-super/issues"
+  },
+  "scripts": {
+    "test": "php publish/chicago-charter-bus-rental/packagist/tests/run.php"
+  }
+}

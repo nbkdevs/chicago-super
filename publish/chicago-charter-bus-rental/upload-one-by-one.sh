@@ -31,7 +31,7 @@ step "2/10 Packagist"
 echo "Packagist needs a public VCS URL. Create a Git repo for packagist/ then:"
 echo "  1) Push packagist/ contents to a public Git host"
 echo "  2) Submit at https://packagist.org/packages/submit"
-echo "  Package: chicago-super-coach/chicago-charter-bus-rental"
+echo "  Package: nbkdevs/chicago-charter-bus-rental"
 pause
 
 # --- 3. PyPI ---

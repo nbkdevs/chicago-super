@@ -1,5 +1,5 @@
 {
-  "name": "chicago-super-coach/chicago-charter-bus-rental",
+  "name": "nbkdevs/chicago-charter-bus-rental",
   "description": "Chicago group charter planner: recommends the fewest vehicles for a headcount from the Chicago Charter Bus Rental fleet seat sizes.",
   "type": "library",
   "license": "MIT",
