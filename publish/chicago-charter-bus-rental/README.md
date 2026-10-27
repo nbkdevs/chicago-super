@@ -12,7 +12,7 @@ The packages share one idea: given a headcount, recommend the fewest vehicles fr
 | Docker Hub | `docker/` | `iamnazzal/chicago-charter-bus-rental` | Published |
 | pub.dev | `pub_dev/` | `chicago_charter_bus_rental` | Fleet planner library with tests |
 | RubyGems | `rubygems/` | `chicago_charter_bus_rental` | Fleet planner gem with tests, not published |
-| Packagist | `packagist/` | `nbkdevs/chicago-charter-bus-rental` | Fleet planner library with tests, not published |
+| Packagist | `packagist/` | `chicagosupercoach/charter-bus-rental` | Fleet planner library with tests, not published |
 | NuGet | `nuget/` | `ChicagoCharterBusRental` | Fleet planner library with xunit tests, not published |
 | Smithery | `smithery-ai/` | `chicago-group-travel` | Agent skill with a planner script and tests, not published |
 | Snapcraft | `snapcraft/` | | Not published |

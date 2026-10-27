@@ -1,4 +1,4 @@
-# nbkdevs/chicago-charter-bus-rental
+# chicagosupercoach/charter-bus-rental
 
 Group charter planning helpers for the [Chicago Charter Bus Rental](https://chicagosupercoachbus.com/) fleet: work out how many vehicles a headcount needs and how many seats are left over. Requires PHP 8.1+, no dependencies.
 
