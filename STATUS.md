@@ -38,6 +38,7 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 | pub.dev | Dart Package | Nofollow (rel=ugc) | https://pub.dev/packages/chicago_charter_bus_rental | `chicago_charter_bus_rental` 1.0.0, published 27 Oct 2026 (Asia/Karachi); README anchor and Homepage link both rendered with rel="ugc"; page is meta robots noindex for now (normal for new pub.dev packages); fleet planner library with 13 tests |
 | GitHub | Source Code | Nofollow | https://github.com/nbkdevs/chicago-super | Public repo; description and homepage set via API 27 Oct 2026 (Asia/Karachi); root README exact anchor rendered with rel="nofollow"; website link in the sidebar also rel="nofollow" |
 | NuGet | Package | Nofollow (rel="noopener noreferrer nofollow") | https://www.nuget.org/packages/ChicagoCharterBusRental/1.0.0 | `ChicagoCharterBusRental` 1.0.0, pushed 27 Oct 2026 (Asia/Karachi), indexed in the flat container within about 14 minutes; projectUrl is the site; README anchor rendered on the package page; page is meta robots noindex for now; planner library with 7 tests |
+| RubyGems | Package | Nofollow (rel="nofollow" on the gem page Homepage link) | https://rubygems.org/gems/chicago_charter_bus_rental | `chicago_charter_bus_rental` 1.0.0, pushed by Nazzal 27 Oct 2026 (Asia/Karachi); API homepage_uri is https://chicagosupercoachbus.com/; the gem page shows no README, only the Homepage link; planner gem with 8 tests |
 
 ## Prepared or pending
 
@@ -45,7 +46,6 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 |---|---|---|---|
 | Smithery | chicago-group-travel skill | publish/chicago-charter-bus-rental/smithery-ai/chicago-group-travel | Prepared and tested (7 tests). Needs a SMITHERY_API_KEY (or Smithery web sign-in). Command in smithery-ai/README.md. Expected page: https://smithery.ai/skills/nbkdevs/chicago-group-travel |
 | Context 7 | nbkdevs/chicago-super library | context7.json + publish/chicago-charter-bus-rental/CONTEXT7.md | Prepared. Needs a Context7 sign-in to add the repo. |
-| RubyGems | chicago_charter_bus_rental 1.0.0 | publish/chicago-charter-bus-rental/rubygems | Built and tested (8 tests, gem builds). Not pushed: needs the RubyGems 2FA code. Not published by instruction. |
 | Packagist | nbkdevs/chicago-charter-bus-rental | publish/chicago-charter-bus-rental/packagist | Tested (php tests/run.php, 1226 checks). Not submitted: needs a Packagist sign-in; root composer.json added (autoload points at the subfolder), so submit the repo URL https://github.com/nbkdevs/chicago-super. Not published by instruction. |
 | GitLab | nbkdevs/chicago-super mirror | n/a | Needs a GitLab sign-in. |
 | Product Hunt, Automatool, The greatapps, The popularapps | n/a | n/a | Need web sign-ins or submissions; not attempted. |
