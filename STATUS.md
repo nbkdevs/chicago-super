@@ -52,3 +52,8 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 |---|---|---|---|
 | Context 7 | nbkdevs/chicago-super library | https://context7.com/nbkdevs/chicago-super | Pending Review. Submitted by Nazzal 27 Oct 2026 (Asia/Karachi); the library page exists (title "Chicago Charter Bus Rental fleet planner") but is still processing, with no outbound link rendered yet, so the link type stays at the sheet's Dofollow value, unverified. Config: context7.json. |
 | Product Hunt | Chicago Super Coach | https://www.producthunt.com/products/chicago-super-coach | Live (launched 28 Oct 2026, 12:01 PM Asia/Karachi; sheet row 23). Website button links to https://chicagosupercoachbus.com/?ref=producthunt with rel="noreferrer noopener ugc" (logged as Nofollow). Copy and media: publish/chicago-charter-bus-rental/directory-kits/LISTING.md. |
+
+
+## Smithery check (3 Nov 2026, PKT)
+
+- Smithery entries above that were Live are kept as Live (Nazzal's rule: only pending Smithery entries are removed). As of 3 Nov 2026 every `smithery.ai/skills/...` page, including the whole `/skills` section, returns HTTP 404 "Not found · Smithery" after Smithery's 31 Oct shutdown (https://smithery.ai/future), so the link no longer resolves. Nazzal to decide whether to drop these rows too.
