@@ -22,7 +22,7 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 | Chrome Webstore | Theme | Nofollow | https://chromewebstore.google.com/detail/travel-pal-%E2%80%94-soft-flock/gdcpbkokbejlnleldhaanelogobhmnkp |
 | Mozilla Addons | Extension | Nofollow | https://addons.mozilla.org/en-US/firefox/addon/travel-pal-journey-notes/ |
 | Edge Addons | Extension | Dofollow | https://microsoftedge.microsoft.com/addons/detail/travel-pal-%E2%80%94-journey-note/kocjiolepfkeakoodgkgpclacoijofop |
-| SourceForge | Project | Nofollow | https://sourceforge.net/projects/travelpal/ |
+| npm.io | NPM Package | Dofollow | https://npm.io/package/chicago-charter-bus-rental | (replaced dead SourceForge project, 404 on 2026-11-04) |
 | ClawHub | Agent Skill | Dofollow | https://clawhub.ai/nazzal5448/skills/travel-pal |
 | HuggingFace Space | Gradle App | Dofollow | https://huggingface.co/spaces/iamnazzal/chicago-super-coach-travel-pal |
 | Docker Hub | Docker Image | Dofollow | https://hub.docker.com/r/iamnazzal/chicago-charter-bus-rental |

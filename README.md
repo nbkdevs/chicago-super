@@ -37,7 +37,7 @@ Travel Pal and the small group-trip tools that go with it are published in a num
 - [Travel Pal for Chrome](https://chromewebstore.google.com/detail/travel-pal-%E2%80%94-soft-flock/gdcpbkokbejlnleldhaanelogobhmnkp): the soft, scrapbook-style browser theme.
 - [Travel Pal: Journey Notes on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/travel-pal-journey-notes/): the Firefox extension for jotting trip notes.
 - [Travel Pal: Journey Note on Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/travel-pal-%E2%80%94-journey-note/kocjiolepfkeakoodgkgpclacoijofop): the Edge version of the notes extension.
-- [Travel Pal on SourceForge](https://sourceforge.net/projects/travelpal/): downloads and project page.
+- [chicago-charter-bus-rental on npm.io](https://npm.io/package/chicago-charter-bus-rental): package page.
 
 ### Packages and libraries
 
