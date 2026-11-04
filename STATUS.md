@@ -57,3 +57,16 @@ Updated 27 Oct 2026 (Asia/Karachi). Source of truth for the live list is the tra
 ## Smithery check (3 Nov 2026, PKT)
 
 - As of 3 Nov 2026 every `smithery.ai/skills/...` page, including the whole `/skills` section, returns HTTP 404 "Not found · Smithery" after Smithery's 31 Oct shutdown (https://smithery.ai/future). Nazzal approved removing them: the Smithery entries above are marked "Removed: page 404 after Smithery shutdown; sheet row deleted 2026-11-03" and their rows were deleted from the tracking sheet on 3 Nov 2026.
+
+
+## Link check 4 Nov 2026 (PKT)
+
+Sheet1 new rows (Status Live):
+- Row 44: Docs rs (Rust package, Dofollow) https://docs.rs/crate/chicago-charter-bus-rental/latest
+- Row 45: Libraries io (NPM Package, Nofollow) https://libraries.io/npm/chicago-charter-bus-rental
+- Row 46: Libraries io (Dart Package, Nofollow) https://libraries.io/pub/chicago_charter_bus_rental
+- Row 47: Libraries io (C Package, Nofollow) https://libraries.io/nuget/ChicagoCharterBusRental
+- Row 48: Libraries io (Ruby Package, Nofollow) https://libraries.io/rubygems/chicago_charter_bus_rental
+- Row 49: Libraries io (Php Package, Nofollow) https://libraries.io/packagist/chicagosupercoach%2Fcharter-bus-rental
+
+Context7 still 200 (already Live). - socket.dev: Cloudflare 403 from curl, couldn't verify (not added).
