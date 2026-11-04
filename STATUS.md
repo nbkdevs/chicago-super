@@ -70,3 +70,16 @@ Sheet1 new rows (Status Live):
 - Row 49: Libraries io (Php Package, Nofollow) https://libraries.io/packagist/chicagosupercoach%2Fcharter-bus-rental
 
 Context7 still 200 (already Live). - socket.dev: Cloudflare 403 from curl, couldn't verify (not added).
+
+## One link per domain (4 Nov 2026, PKT)
+
+Nazzal's rule: only ONE row per domain in each sheet/tab. Duplicate auto-created rows were deleted from the tracking sheet (row numbers in the link-check list above are now stale). Kept: Dofollow > Live > libraries.io PyPI page > docs.rs /latest/<crate>/index.html.
+
+Sheet1: kept libraries.io https://libraries.io/pypi/chicago-charter-bus-rental and docs.rs https://docs.rs/chicago-charter-bus-rental/latest/chicago_charter_bus_rental/index.html. Removed:
+- Libraries io https://libraries.io/cargo/chicago-charter-bus-rental
+- Docs rs https://docs.rs/crate/chicago-charter-bus-rental/latest
+- Libraries io https://libraries.io/npm/chicago-charter-bus-rental
+- Libraries io https://libraries.io/pub/chicago_charter_bus_rental
+- Libraries io https://libraries.io/nuget/ChicagoCharterBusRental
+- Libraries io https://libraries.io/rubygems/chicago_charter_bus_rental
+- Libraries io https://libraries.io/packagist/chicagosupercoach%2Fcharter-bus-rental
